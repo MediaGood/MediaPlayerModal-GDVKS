@@ -1,1 +1,1 @@
-# MediaPlayerModal-GDVKS
+# MediaPlayer-GD-VK
